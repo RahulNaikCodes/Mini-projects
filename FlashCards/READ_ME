@@ -1,0 +1,2 @@
+This project presents the simulation of flash cards to learn a new language (in this case - Russian).
+Utilization of Tkinter for GUI and Pandas to manage the data. Changing the data file with new set of words from a different language also works.
